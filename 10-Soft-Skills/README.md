@@ -11,7 +11,7 @@ Certificados relacionados ao desenvolvimento profissional, liderança, gestão e
 - Lean Básico
 - Marketing Digital para o Empreendedor - SEBRAE
 - Trilha de Home Office e Home Based
-- UC-26fe367f-8d92-435a-9e38-21667c644797
+- Curso Completo de Produtividade e gestão de tempo
 
 ---
 
