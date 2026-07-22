@@ -35,6 +35,7 @@ Repositório contendo meus certificados de cursos, treinamentos e bootcamps orga
 | 🚀 DevOps | Git | **3** |
 | 🚀 DevOps | Geral | **8** |
 | 🏛️ Arquitetura | Geral | **3** |
+| 🏛️ Arquitetura | Mensageria | **1** |
 | ☁️ Cloud & IA | IA e Bots | **2** |
 | ☁️ Cloud & IA | Blockchain & IoT | **1** |
 | 📋 Metodologias | Geral | **1** |
@@ -53,7 +54,7 @@ Repositório contendo meus certificados de cursos, treinamentos e bootcamps orga
 | ⚙️ [Backend](./03-Backend/) | **5** |
 | 📱 [Mobile](./04-Mobile/) | **1** |
 | 🚀 [DevOps](./05-DevOps/) | **11** |
-| 🏛️ [Arquitetura](./06-Arquitetura/) | **3** |
+| 🏛️ [Arquitetura](./06-Arquitetura/) | **4** |
 | ☁️ [Cloud & IA](./07-Cloud-e-IA/) | **3** |
 | 📋 [Metodologias](./08-Metodologias/) | **1** |
 | 🛠️ [Ferramentas](./09-Ferramentas/) | **2** |
